@@ -1,1 +1,1 @@
-# Sistemi-Operativi-Shell
+# Sistemi Operativi - Shell
